@@ -1,6 +1,6 @@
-##RNN Analysis of Amazon Fine Food Reviews
+## RNN Analysis of Amazon Fine Food Reviews
 
-##Data preprocessing
+## Data preprocessing
 TODO:
 - [ ] Create graphs and detailed information about the data set
 
@@ -13,15 +13,15 @@ https://github.com/yanndupis/RNN-Amazon-Fine-Food-Reviews/blob/master/Amazon%20F
 - [ ] remove pos_tagging (prepositions)
 - [ ] Train data
 
-##Lexicon Approach
+## Lexicon Approach
 TODO:
 - [ ] Create Lexicon based approach to compare against RNN
 
-##Training
+## Training
 TODO:
 - [ ] Create 1 model and train 5 different test sets 
 
-##Visualizations
+## Visualizations
 TODO:
 - [ ] Receiver Operating Characteristics Curve
 - [ ] classification_report 
