@@ -5,7 +5,7 @@ Notes:
 
 ## Data preprocessing
 TODO:
-- [ ] Create graphs and detailed information about the data set
+- [x] Create graphs and detailed information about the data set
 
 https://github.com/yanndupis/RNN-Amazon-Fine-Food-Reviews/blob/master/Amazon%20Fine%20Food%20Reviews.ipynb
 
