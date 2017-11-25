@@ -1,5 +1,8 @@
 ## RNN Analysis of Amazon Fine Food Reviews
 
+Notes: 
+- seaborn does not exist in the working AMI bitfusion
+
 ## Data preprocessing
 TODO:
 - [ ] Create graphs and detailed information about the data set
